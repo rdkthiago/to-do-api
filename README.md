@@ -27,7 +27,7 @@ Esta é uma API RESTful de gerenciamento de lista de tarefas (To-Do List) desenv
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/rdkthiago/to-do-api.git
    cd seu-repositorio
 
 2. Instale as dependências do projeto:
